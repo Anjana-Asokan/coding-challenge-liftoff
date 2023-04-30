@@ -25,3 +25,4 @@ function minMax(arr) {
 	finArr.push(maxVal)
 	return finArr
 }
+
